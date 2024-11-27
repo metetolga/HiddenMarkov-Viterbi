@@ -2,7 +2,8 @@ import string
 
 punct = set(string.punctuation)
 
-noun_suffix = ["action", "age", "ance", "cy", "dom", "ee", "ence", "er", "hood", "ion", "ism", "ist", "ity", "ling", "ment", "ness", "or", "ry", "scape", "ship", "ty"]
+noun_suffix = ["action", "age", "ance", "cy", "dom", "ee", "ence", "er", "hood", "ion", "ism", "ist", "ity", "ling", "ment",
+               "ness", "or", "ry", "scape", "ship", "ty"]
 verb_suffix = ["ate", "ify", "ise", "ize"]
 adj_suffix = ["able", "ese", "ful", "i", "ian", "ible", "ic", "ish", "ive", "less", "ly", "ous"]
 adv_suffix = ["ward", "wards", "wise"]
